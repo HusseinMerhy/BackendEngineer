@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BackendEngineer.iml" filepath="$PROJECT_DIR$/BackendEngineer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCore/Project1/Project1.iml" filepath="$PROJECT_DIR$/JavaCore/Project1/Project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCore/Project2/Project2.iml" filepath="$PROJECT_DIR$/JavaCore/Project2/Project2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCore/Project2/untitled/untitled.iml" filepath="$PROJECT_DIR$/JavaCore/Project2/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
